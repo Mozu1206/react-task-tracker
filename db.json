@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Go to see a doctor.",
+      "day": "2021/12/15",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Have a dinner with my friends.",
+      "day": "2021/12/17 19:00",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Playing a tennis.",
+      "day": "2021/12/18 10:00",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
